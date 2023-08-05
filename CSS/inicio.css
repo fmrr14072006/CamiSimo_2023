@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body::-webkit-scrollbar{
+    width: 10px;
+    background-color: #F0170D;
+}
+
+body::-webkit-scrollbar-thumb{
+    background-color: 	#FFC0CB;
+    border-radius: 20px;
+}
+
+:root{
+    --rojo: #F0170D
+    --blanco: #FFffff;
+    --rosado: #FFC0CB;
+}
+
+.inicio{
+    width: 100 vw;
+    height: 100 vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    
+}
+
+.inicio-cont{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    flex-direction: row-reverse;
+}
+
+.corazon{
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.corazon img{
+    display: flex;
+    width: 15em;
+    height: 15em;
+
+}
+
+.registro-ingreso{
+    width: 100%;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+}
