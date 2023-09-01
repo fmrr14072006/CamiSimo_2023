@@ -7,7 +7,7 @@ diversos paises del mundo y para incentivar el turismo en las diversas naciones 
 planeta tierra.
 
 Para la pagina web se utilizaron los diferentes estilos: HTML para redactar la pagina,
-CSS para aplicar los estilos de la paginaa web, se utilizo python con el framework flash
+CSS para aplicar los estilos de la pagina web, se utilizo python con el framework flash
 para renderizar la pagina
 
 Tenemos proyectos a futuro expandir nuestra presencia a mas paises alrededor del planeta
